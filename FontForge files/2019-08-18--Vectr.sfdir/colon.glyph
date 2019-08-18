@@ -1,0 +1,21 @@
+StartChar: colon
+Encoding: 58 58 79
+Width: 519
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+260 0 m 0
+ 170 0 97 74 97 164 c 0
+ 97 254 170 327 260 327 c 0
+ 350 327 423 254 423 164 c 0
+ 423 74 350 0 260 0 c 0
+260 655 m 0
+ 170 655 97 729 97 819 c 0
+ 97 909 170 982 260 982 c 0
+ 350 982 423 909 423 819 c 0
+ 423 729 350 655 260 655 c 0
+EndSplineSet
+Validated: 1
+EndChar

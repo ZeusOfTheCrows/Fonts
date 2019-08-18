@@ -1,0 +1,16 @@
+StartChar: I
+Encoding: 73 73 56
+Width: 537
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Fore
+SplineSet
+429 10 m 5
+ 102 10 l 5
+ 102 1505 l 5
+ 429 1505 l 5
+ 429 10 l 5
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,26 @@
+StartChar: y
+Encoding: 121 121 3
+Width: 1293
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+81 972 m 1
+ 457 972 l 1
+ 833 316 l 1
+ 645 -10 l 1
+ 81 972 l 1
+833 972 m 1
+ 1209 972 l 1
+ 1022 646 l 1
+ 833 972 l 1
+250 -533 m 0
+ 160 -533 87 -460 87 -370 c 0
+ 87 -280 160 -207 250 -207 c 2
+ 532 -207 l 1
+ 392 -450 l 2
+ 364 -500 311 -533 250 -533 c 0
+EndSplineSet
+Validated: 1
+EndChar

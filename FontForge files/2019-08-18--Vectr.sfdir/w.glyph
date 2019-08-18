@@ -1,0 +1,25 @@
+StartChar: w
+Encoding: 119 119 1
+Width: 1908
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Fore
+SplineSet
+773 972 m 1
+ 1149 972 l 1
+ 1524 316 l 1
+ 1337 -10 l 1
+ 773 972 l 1
+1524 972 m 1
+ 1901 972 l 1
+ 1713 646 l 1
+ 1524 972 l 1
+21 972 m 1
+ 397 972 l 1
+ 773 316 l 1
+ 585 -10 l 1
+ 21 972 l 1
+EndSplineSet
+Validated: 1
+EndChar
