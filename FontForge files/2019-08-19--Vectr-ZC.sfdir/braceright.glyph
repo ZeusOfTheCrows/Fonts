@@ -1,0 +1,21 @@
+StartChar: braceright
+Encoding: 125 125 30
+Width: 933
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+640 1136 m 0
+ 640 865 660 758 878 758 c 1
+ 567 758 314 865 314 1136 c 0
+ 314 1407 294 1516 76 1516 c 1
+ 387 1516 640 1407 640 1136 c 0
+314 377 m 0
+ 314 648 567 757 878 757 c 1
+ 660 757 640 648 640 377 c 0
+ 640 106 387 -1 76 -1 c 1
+ 294 -1 314 106 314 377 c 0
+EndSplineSet
+Validated: 1
+EndChar

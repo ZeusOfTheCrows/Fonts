@@ -1,0 +1,23 @@
+StartChar: r
+Encoding: 114 114 5
+Width: 1058
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+802 982 m 0
+ 892 982 965 909 965 819 c 0
+ 965 729 892 656 802 656 c 0
+ 712 656 639 729 639 819 c 0
+ 639 909 712 982 802 982 c 0
+558 982 m 1
+ 558 982 426 982 426 711 c 2
+ 426 10 l 1
+ 99 10 l 1
+ 99 982 l 1
+ 558 982 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 28 -75 "Pairwise Positioning (kerning) in Latin lookup 0-2"
+EndChar

@@ -1,0 +1,21 @@
+StartChar: q
+Encoding: 113 113 10
+Width: 1269
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Fore
+SplineSet
+1162 -523 m 1
+ 836 -523 l 1
+ 836 972 l 1
+ 1162 972 l 1
+ 1162 -523 l 1
+652 0 m 1
+ 341 0 88 220 88 491 c 0
+ 88 762 341 982 652 982 c 1
+ 434 982 414 762 414 491 c 0
+ 414 220 434 0 652 0 c 1
+EndSplineSet
+Validated: 1
+EndChar

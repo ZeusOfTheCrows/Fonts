@@ -1,0 +1,23 @@
+StartChar: U
+Encoding: 85 85 44
+Width: 1467
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+785 0 m 1
+ 1003 0 1022 220 1022 491 c 2
+ 1022 1505 l 1
+ 1349 1505 l 1
+ 1349 491 l 2
+ 1349 220 1096 0 785 0 c 1
+665 0 m 1
+ 354 0 101 220 101 491 c 2
+ 101 1505 l 1
+ 428 1505 l 1
+ 428 491 l 2
+ 428 220 447 0 665 0 c 1
+EndSplineSet
+Validated: 1
+EndChar

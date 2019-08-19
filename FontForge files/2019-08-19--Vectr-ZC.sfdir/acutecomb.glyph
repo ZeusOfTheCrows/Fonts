@@ -1,0 +1,17 @@
+StartChar: acutecomb
+Encoding: 769 769 159
+Width: 1306
+VWidth: 0
+Flags: W
+HStem: 1091 341
+VStem: 433 487
+LayerCount: 3
+Fore
+SplineSet
+433 1091 m 1
+ 433 1432 l 1
+ 920 1432 l 1
+ 433 1091 l 1
+EndSplineSet
+Validated: 1
+EndChar

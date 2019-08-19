@@ -1,0 +1,11 @@
+StartChar: Egrave
+Encoding: 200 200 96
+Width: 1440
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+Refer: 161 768 N 1 0 0 1 -172.5 546 2
+Refer: 60 69 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

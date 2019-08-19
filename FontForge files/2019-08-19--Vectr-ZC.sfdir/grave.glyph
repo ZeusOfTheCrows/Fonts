@@ -1,0 +1,15 @@
+StartChar: grave
+Encoding: 96 96 24
+Width: 653
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+559 1091 m 1
+ 72 1432 l 1
+ 559 1432 l 1
+ 559 1091 l 1
+EndSplineSet
+Validated: 1
+EndChar

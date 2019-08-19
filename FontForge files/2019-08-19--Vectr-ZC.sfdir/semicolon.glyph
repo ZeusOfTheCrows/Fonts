@@ -1,0 +1,22 @@
+StartChar: semicolon
+Encoding: 59 59 80
+Width: 519
+VWidth: 0
+Flags: HMW
+LayerCount: 3
+Fore
+SplineSet
+260 655 m 4
+ 170 655 97 729 97 819 c 4
+ 97 909 170 982 260 982 c 4
+ 350 982 423 909 423 819 c 4
+ 423 729 350 655 260 655 c 4
+423 164 m 4
+ 423 103 390 50 340 22 c 6
+ 97 -118 l 5
+ 97 164 l 6
+ 97 254 170 327 260 327 c 4
+ 350 327 423 254 423 164 c 4
+EndSplineSet
+Validated: 1
+EndChar
