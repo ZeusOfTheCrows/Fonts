@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565815929
-ModificationTime: 1566208488
+ModificationTime: 1566410060
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -64,7 +64,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 200
-WinInfo: 26 13 4
+WinInfo: 65 13 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -904,23 +904,42 @@ EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 36
-Width: 822
+Width: 1524
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
-737 1054 m 1
- 586 1054 l 1
- 336 1356 l 1
- 411 1446 l 1
- 737 1054 l 1
-296 1054 m 1
- 85 1054 l 1
- 193 1184 l 1
- 296 1054 l 1
+498 704 m 1
+ 701 460 l 1
+ 0 460 l 1
+ 498 704 l 1
+932 507 m 1
+ 1107 6 l 1
+ 530 721 l 1
+ 759 827 l 1
+ 249 1505 l 1
+ 922 1505 l 1
+ 1162 689 l 1
+ 932 507 l 1
+1332 886 m 1
+ 1318 749 l 1
+ 1185 707 l 1
+ 1126 902 l 1
+ 1332 886 l 1
+1519 793 m 1
+ 1351 774 l 1
+ 1361 863 l 1
+ 1519 793 l 1
+1112 59 m 1
+ 1292 10 l 1
+ 1129 10 l 1
+ 1112 59 l 1
+982 10 m 1
+ 1042 51 l 1
+ 1078 10 l 1
+ 982 10 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -965,7 +984,7 @@ StartChar: Z
 Encoding: 90 90 39
 Width: 1532
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet

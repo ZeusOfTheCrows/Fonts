@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565815929
-ModificationTime: 1566143245
+ModificationTime: 1566287848
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,7 +62,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 200
-WinInfo: 13 13 4
+WinInfo: 0 13 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -71,7 +71,7 @@ Grid
   Named: "x-height"
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 679240 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 188
+BeginChars: 65537 189
 
 StartChar: v
 Encoding: 118 118 0
@@ -675,10 +675,10 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-559 1091 m 1
- 72 1432 l 1
- 559 1432 l 1
- 559 1091 l 1
+559 1091 m 5
+ 72 1432 l 5
+ 559 1432 l 5
+ 559 1091 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -1468,10 +1468,10 @@ SplineSet
  1348 1505 l 1
  1348 1018 l 1
  1007 1505 l 1
-1012 992 m 1
- 1012 617 l 1
- 685 803 l 1
- 1012 992 l 1
+1012 992 m 5
+ 1012 617 l 5
+ 685 803 l 5
+ 1012 992 l 5
 432 12 m 1
  105 12 l 1
  105 1505 l 1
@@ -1651,11 +1651,11 @@ Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-43 10 m 1
- 804 1505 l 1
- 1145 1505 l 1
- 384 10 l 1
- 43 10 l 1
+43 10 m 5
+ 804 1505 l 5
+ 1145 1505 l 5
+ 384 10 l 5
+ 43 10 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -3936,6 +3936,39 @@ SplineSet
  543 1152 455 1240 455 1364 c 5
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 188
+Width: 9
+VWidth: 0
+Flags: HWO
+LayerCount: 3
+Back
+SplineSet
+1282 0 m 5
+ 941 0 l 5
+ 1197.57586835 504.048519289 l 5
+ 962 669 l 5
+ 1281.54113712 669 l 5
+ 1420.54282853 942.071653945 l 5
+ 1185 1107 l 5
+ 1504.49632107 1107 l 5
+ 1702 1495 l 5
+ 2043 1495 l 5
+ 1282 0 l 5
+384 10 m 5
+ 43 10 l 5
+ 299.576171875 514.048828125 l 5
+ 64 679 l 5
+ 383.541015625 679 l 5
+ 522.54296875 952.071289062 l 5
+ 287 1117 l 5
+ 606.49609375 1117 l 5
+ 804 1505 l 5
+ 1145 1505 l 5
+ 384 10 l 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
