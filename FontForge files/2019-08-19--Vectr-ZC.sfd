@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565815929
-ModificationTime: 1566474250
+ModificationTime: 1566552528
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -64,7 +64,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 200
-WinInfo: 52 13 4
+WinInfo: 91 13 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -203,7 +203,7 @@ StartChar: r
 Encoding: 114 114 5
 Width: 1058
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
@@ -212,14 +212,13 @@ SplineSet
  965 729 892 656 802 656 c 0
  712 656 639 729 639 819 c 0
  639 909 712 982 802 982 c 0
-558 982 m 1
- 558 982 426 982 426 711 c 2
+558 977 m 1
+ 558 977 426 977 426 706 c 2
  426 10 l 1
  99 10 l 1
- 99 982 l 1
- 558 982 l 1
+ 99 977 l 1
+ 558 977 l 1
 EndSplineSet
-Validated: 1
 Kerns2: 28 -75 "Pairwise Positioning (kerning) in Latin lookup 0-2"
 EndChar
 
@@ -3975,7 +3974,7 @@ StartChar: atilde
 Encoding: 227 227 190
 Width: 1151
 VWidth: 0
-Flags: WO
+Flags: W
 LayerCount: 3
 Fore
 Refer: 189 771 S 1 0 0 1 -139.1 22.7998 2
