@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: Vectr-Display-ZC-v1.1
+FontName: Vectr-ZC-v1.2
 FullName: Vectr ZC
-FamilyName: Vectr
+FamilyName: Vectr ZC
 Weight: Regular
 Copyright: Copyright (c) 2019, ZeusOfTheCrows
 FontLog: "A special version of Vectr, kerned for my name. You probably want the normal version.+AAoACgAA-Moved ZC logo to asterisk (*), added caret (^), and improved circumflex accent.+AAoACgAA-Moved ZC logo to asterisk (*), added caret (^), and improved circumflex accent."
-Version: 1.1
+Version: 1.2
 DefaultBaseFilename: Vectr ZC
 ItalicAngle: 0
 UnderlinePosition: -153
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565815929
-ModificationTime: 1566557379
+ModificationTime: 1566560640
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -71,7 +71,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 200
-WinInfo: 208 13 4
+WinInfo: 65 13 3
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -954,10 +954,28 @@ StartChar: Z
 Encoding: 90 90 39
 Width: 1532
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
-Fore
+Back
 SplineSet
+1520 -14 m 4
+ 1647 -166 1765 -290 1885 -290 c 4
+ 1929 -290 1972 -273 2017 -236 c 5
+ 1901 -334 1761 -383 1628 -383 c 4
+ 1489 -383 1359 -329 1270 -223 c 4
+ 1142 -70 1024 54 904 54 c 4
+ 860 54 816 37 772 0 c 5
+ 888 98 1027 146 1160 146 c 4
+ 1299 146 1431 93 1520 -14 c 4
+430 1505 m 5
+ 89 1018 l 5
+ 89 1505 l 5
+ 430 1505 l 5
+1526 1505 m 5
+ 465 10 l 5
+ 89 10 l 5
+ 1150 1505 l 5
+ 1526 1505 l 5
 1520 -14 m 0
  1647 -166 1765 -290 1885 -290 c 0
  1929 -290 1972 -273 2017 -236 c 1
@@ -977,7 +995,38 @@ SplineSet
  1150 1505 l 1
  1526 1505 l 1
 EndSplineSet
-Validated: 1
+Fore
+SplineSet
+430 1505 m 5
+ 89 1018 l 5
+ 89 1505 l 5
+ 430 1505 l 5
+1185 10 m 5
+ 1526 497 l 5
+ 1526 10 l 5
+ 1185 10 l 5
+1526 1505 m 5
+ 465 10 l 5
+ 89 10 l 5
+ 1150 1505 l 5
+ 1526 1505 l 5
+EndSplineSet
+Layer: 2
+SplineSet
+430 1505 m 1
+ 89 1018 l 1
+ 89 1505 l 1
+ 430 1505 l 1
+1185 10 m 1
+ 1526 497 l 1
+ 1526 10 l 1
+ 1185 10 l 1
+1526 1505 m 1
+ 465 10 l 1
+ 89 10 l 1
+ 1150 1505 l 1
+ 1526 1505 l 1
+EndSplineSet
 EndChar
 
 StartChar: Y
@@ -1641,12 +1690,31 @@ EndChar
 
 StartChar: plus
 Encoding: 43 43 66
-Width: 210
+Width: 1526
 VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Validated: 1
+SplineSet
+1520 -14 m 0
+ 1647 -166 1765 -290 1885 -290 c 0
+ 1929 -290 1972 -273 2017 -236 c 1
+ 1901 -334 1761 -383 1628 -383 c 0
+ 1489 -383 1359 -329 1270 -223 c 0
+ 1142 -70 1024 54 904 54 c 0
+ 860 54 816 37 772 0 c 1
+ 888 98 1027 146 1160 146 c 0
+ 1299 146 1431 93 1520 -14 c 0
+430 1505 m 1
+ 89 1018 l 1
+ 89 1505 l 1
+ 430 1505 l 1
+1526 1505 m 1
+ 465 10 l 1
+ 89 10 l 1
+ 1150 1505 l 1
+ 1526 1505 l 1
+EndSplineSet
 EndChar
 
 StartChar: hyphen
