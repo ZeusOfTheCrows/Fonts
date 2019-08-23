@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1565815929
-ModificationTime: 1566554280
+ModificationTime: 1566555457
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -48,18 +48,20 @@ Lookup: 4 0 0 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures 
 Lookup: 258 0 0 "Pairwise Positioning (kerning) in Latin lookup 0" { "Pairwise Positioning (kerning) in Latin lookup 0-1" [307,30,0] "Pairwise Positioning (kerning) in Latin lookup 0-2" [307,30,0] } ['Cr  ' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 6+ 5 "Pairwise Positioning (kerning) in Latin lookup 0-1"
+KernClass2: 7+ 6 "Pairwise Positioning (kerning) in Latin lookup 0-1"
  1 f
+ 1 r
  1 T
  1 C
  3 a q
  5 m n u
  9 d h i j l
- 164 c e o q s v w x y z egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron emacron edotaccent ecaron oe
+ 154 c e o q s egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron emacron edotaccent ecaron oe
  15 b f h i j k l t
  9 m n p r u
  61 a agrave aacute acircumflex atilde adieresis aring ae amacron
- 0 {} -100 {} 0 {} -100 {} -190 {} 0 {} -150 {} 0 {} -150 {} -150 {} 0 {} -50 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} 80 {} 77 {} 69 {} 30 {} 0 {} 86 {} 78 {} 88 {} 30 {}
+ 9 v w x y z
+ 0 {} -100 {} 0 {} -100 {} -190 {} -221 {} 0 {} 0 {} 0 {} 0 {} -75 {} 41 {} 0 {} -150 {} 0 {} -150 {} -50 {} -609 {} 0 {} -50 {} 30 {} 0 {} -50 {} -893 {} 0 {} 50 {} 0 {} 0 {} 30 {} 31 {} 0 {} 80 {} 77 {} 69 {} 30 {} 0 {} 0 {} 80 {} 78 {} 88 {} 30 {} 67 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2019, zeuso (<URL|email>),+AAoA-with Reserved Font Name Vectr.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -68,7 +70,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 200
-WinInfo: 104 13 4
+WinInfo: 221 13 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -223,7 +225,7 @@ SplineSet
  99 977 l 1
  558 977 l 1
 EndSplineSet
-Kerns2: 28 -75 "Pairwise Positioning (kerning) in Latin lookup 0-2"
+Kerns2: 28 0 "Pairwise Positioning (kerning) in Latin lookup 0-2"
 EndChar
 
 StartChar: braceleft
@@ -501,7 +503,7 @@ StartChar: j
 Encoding: 106 106 17
 Width: 535
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -2680,9 +2682,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 161 768 N 1 0 0 1 -448.4 13 2
+Refer: 161 768 S 1 0 0 1 -148.4 13 2
 Refer: 28 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: aacute
@@ -2692,9 +2693,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 159 769 N 1 0 0 1 38.6 13 2
+Refer: 159 769 S 1 0 0 1 -105.4 13 2
 Refer: 28 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: acircumflex
@@ -2704,9 +2704,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 160 770 N 1 0 0 1 -190.4 50 2
+Refer: 160 770 S 1 0 0 1 -70.4 50 2
 Refer: 28 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: adieresis
@@ -2716,9 +2715,8 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 163 776 N 1 0 0 1 -118.9 -15 2
+Refer: 163 776 S 1 0 0 1 -14.9 -15 2
 Refer: 28 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: aring
@@ -2728,16 +2726,15 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 164 778 N 1 0 0 1 -179.9 51 2
+Refer: 164 778 S 1 0 0 1 -59.9 51 2
 Refer: 28 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: ae
 Encoding: 230 230 123
 Width: 1863
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 3
 Fore
 SplineSet
